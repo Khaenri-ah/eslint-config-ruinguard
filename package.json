@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-ruinguard",
+  "version": "1.0.0",
+  "description": "eslint rules for ruinguard",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Khaenri-ah/eslint-config-ruinguard.git"
+  },
+  "keywords": ["eslint", "eslintconfig", "ruinguard"],
+  "author": {
+    "name": "AroLeaf",
+    "url": "https://leaf.moe/"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
+  }
+}
